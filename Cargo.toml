@@ -33,7 +33,7 @@ brotli-decompressor = "2.3.2"
 
 [dev-dependencies]
 pretty_assertions = "1.0.0"
-duct = "0.13.5"
+duct = "0.13.6"
 test-env-log = "0.2.7"
 shell-escape = "0.1.5"
 insta = { version = "1.8.0", features = ["backtrace"] }
